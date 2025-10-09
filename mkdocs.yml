@@ -27,7 +27,7 @@ theme:
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
-      primary: deep orange
+      primary: teal
       accent: deep purple
 
     # Palette toggle for light mode
@@ -45,7 +45,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-      primary: deep orange
+      primary: teal
       accent: deep purple
 
 plugins:
@@ -95,7 +95,7 @@ extra:
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
 
-copyright: Copyright &copy; 2024 Ethan Goh (PEG)
+copyright: Copyright &copy; 2025 Ethan Goh (PEG)
 
 nav:
   - Bio: index.md
